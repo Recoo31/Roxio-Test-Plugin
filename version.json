@@ -3,21 +3,21 @@
             "id": "bein",
             "name": "BeinConnect",
             "url": "https://raw.githubusercontent.com/Recoo31/Roxio-Test-Plugin/refs/heads/main/BeinConnect.krd",
-            "version": "1.4",
+            "version": "1.5",
             "active": true
         },
         {
             "id": "bluapi",
             "name": "BluTv",
             "url": "https://raw.githubusercontent.com/Recoo31/Roxio-Test-Plugin/refs/heads/main/BluTv.krd",
-            "version": "1.1",
+            "version": "1.2",
             "active": true
         },
         {
             "id": "digiturk",
             "name": "Digiturk",
             "url": "https://raw.githubusercontent.com/Recoo31/Roxio-Test-Plugin/refs/heads/main/Digiturk.krd",
-            "version": "1.1",
+            "version": "1.2",
             "active": false
         }
     ]
