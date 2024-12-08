@@ -25,7 +25,7 @@
             "name": "Disney",
             "url": "https://raw.githubusercontent.com/Recoo31/Roxio-Test-Plugin/refs/heads/main//Disney.krd",
             "version": "1.0",
-            "active": true
+            "active": false
         }
     ]
 }
