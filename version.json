@@ -23,9 +23,16 @@
         {
             "id": "disney",
             "name": "Disney",
-            "url": "https://raw.githubusercontent.com/Recoo31/Roxio-Test-Plugin/refs/heads/main//Disney.krd",
+            "url": "https://raw.githubusercontent.com/Recoo31/Roxio-Test-Plugin/refs/heads/main/Disney.krd",
             "version": "1.0",
             "active": false
+        },
+        {
+            "id": "filmbol",
+            "name": "Roxio Movies",
+            "url": "https://raw.githubusercontent.com/Recoo31/Roxio-Test-Plugin/refs/heads/main/Filmbol.krd",
+            "version": "1.1",
+            "active": true
         }
     ]
 }
