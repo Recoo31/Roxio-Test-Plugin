@@ -26,13 +26,6 @@
             "url": "https://raw.githubusercontent.com/Recoo31/Roxio-Test-Plugin/refs/heads/main//Disney.krd",
             "version": "1.0",
             "active": false
-        },
-        {
-            "id": "filmbol",
-            "name": "Roxio Movies",
-            "url": "https://github.com/Recoo31/RoxioPlugins/raw/main/Filmbol.krd",
-            "version": "1.0",
-            "active": true
         }
     ]
 }
