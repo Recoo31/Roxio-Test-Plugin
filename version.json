@@ -33,6 +33,13 @@
             "url": "https://raw.githubusercontent.com/Recoo31/Roxio-Test-Plugin/refs/heads/main/Filmbol.krd",
             "version": "1.3",
             "active": true
+        },
+        {
+            "id": "tabii",
+            "name": "Tabii Spor",
+            "url": "https://raw.githubusercontent.com/Recoo31/Roxio-Test-Plugin/refs/heads/main/Tabii.krd",
+            "version": "1.0",
+            "active": true
         }
     ]
 }
