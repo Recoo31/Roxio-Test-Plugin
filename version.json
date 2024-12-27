@@ -40,6 +40,13 @@
             "url": "https://raw.githubusercontent.com/Recoo31/Roxio-Test-Plugin/refs/heads/main/Tabii.krd",
             "version": "1.0",
             "active": true
+        },
+        {
+            "id": "tvplus",
+            "name": "TvPlus",
+            "url": "https://raw.githubusercontent.com/Recoo31/Roxio-Test-Plugin/refs/heads/main/TvPlus.krd",
+            "version": "1.0",
+            "active": true
         }
     ]
 }
