@@ -46,7 +46,7 @@
             "name": "TvPlus",
             "url": "https://raw.githubusercontent.com/Recoo31/Roxio-Test-Plugin/refs/heads/main/TvPlus.krd",
             "version": "1.0",
-            "active": true
+            "active": false
         },
         {
             "id": "emby",
