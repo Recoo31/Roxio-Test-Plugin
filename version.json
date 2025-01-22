@@ -59,7 +59,7 @@
             "id": "emby",
             "name": "Emby",
             "url": "https://raw.githubusercontent.com/Recoo31/Roxio-Test-Plugin/refs/heads/main/Emby.krd",
-            "image": "https://i.ibb.co/cCs6XPp/filmbol.png",
+            "image": "https://i.ibb.co/MnddHgK/emby.png",
             "version": "1.0",
             "active": true
         },
