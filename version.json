@@ -29,7 +29,7 @@
             "url": "https://raw.githubusercontent.com/Recoo31/Roxio-Test-Plugin/refs/heads/main/Disney.krd",
             "image": "https://i.ibb.co/ZMdgZVt/disney.png",
             "version": "2.3",
-            "active": true
+            "active": false
         },
         {
             "id": "filmbol",
