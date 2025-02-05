@@ -70,6 +70,14 @@
             "image": "https://i.ibb.co/G7DJzH5/Exxen.png",
             "version": "1.7",
             "active": true
+        },
+        {
+            "id": "ssport",
+            "name": "Ssport",
+            "url": "https://raw.githubusercontent.com/Recoo31/Roxio-Test-Plugin/refs/heads/main/Ssport.krd",
+            "image": "https://i.ibb.co/BHXgZgYc/ssport.png",
+            "version": "1.0",
+            "active": true
         }
     ]
 }
