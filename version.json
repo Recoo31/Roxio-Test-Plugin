@@ -79,5 +79,14 @@
             "version": "1.2",
             "active": true
         }
+        ,
+        {
+            "id": "dsmart",
+            "name": "Dsmart",
+            "url": "https://raw.githubusercontent.com/Recoo31/Roxio-Test-Plugin/refs/heads/main/Dsmart.krd",
+            "image": "https://i.ibb.co/JjwnS4wq/dsmart.png",
+            "version": "1.0",
+            "active": true
+        }
     ]
 }
