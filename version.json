@@ -37,7 +37,7 @@
             "url": "https://raw.githubusercontent.com/Recoo31/Roxio-Test-Plugin/refs/heads/main/Filmbol.krd",
             "image": "https://i.ibb.co/cCs6XPp/filmbol.png",
             "version": "1.8",
-            "active": true
+            "active": false
         },
         {
             "id": "tabii",
@@ -60,8 +60,8 @@
             "name": "Emby",
             "url": "https://raw.githubusercontent.com/Recoo31/Roxio-Test-Plugin/refs/heads/main/Emby.krd",
             "image": "https://i.ibb.co/MnddHgK/emby.png",
-            "version": "1.0",
-            "active": false
+            "version": "1.1",
+            "active": true
         },
         {
             "id": "exxen",
